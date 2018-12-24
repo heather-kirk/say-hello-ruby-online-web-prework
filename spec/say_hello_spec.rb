@@ -1,5 +1,4 @@
 require_relative './spec_helper'
-def say_hello = #("Hello Ruby programmer!")
 end
 describe "say_hello" do 
   
