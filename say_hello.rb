@@ -1,1 +1,2 @@
-say_hello("Gabriela")
+def say_hello(name)
+say_hello("Hello #{Gabriela}")
