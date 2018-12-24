@@ -1,4 +1,4 @@
 def say_hello(name)
-puts say_hello("Hello #{name}")
+puts ("Hello #{name}")
 end
-say_hello("Gabriella")
+say_hello("Gabriela")
